@@ -1,0 +1,17 @@
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\bin\Debug\net6.0\Ecommerce CRUD.exe
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\bin\Debug\net6.0\Ecommerce CRUD.deps.json
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\bin\Debug\net6.0\Ecommerce CRUD.runtimeconfig.json
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\bin\Debug\net6.0\Ecommerce CRUD.dll
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\bin\Debug\net6.0\Ecommerce CRUD.pdb
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.csproj.AssemblyReference.cache
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.csproj.CopyComplete
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.dll
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\refint\Ecommerce CRUD.dll
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.pdb
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\Ecommerce CRUD.genruntimeconfig.cache
+C:\Users\jimmy\source\repos\Ecommerce CRUD\Ecommerce CRUD\obj\Debug\net6.0\ref\Ecommerce CRUD.dll
