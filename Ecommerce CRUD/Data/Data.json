@@ -1,2 +1,12 @@
 {
+  "Products": [
+    {
+      "ProductId": 0,
+      "Name": "SAMSUNGA12",
+      "Description": "black",
+      "Price": 30000,
+      "Category": 0,
+      "id": 1
+    }
+  ]
 }

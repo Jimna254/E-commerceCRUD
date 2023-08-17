@@ -11,7 +11,7 @@ namespace Ecommerce_CRUD.Services
     public class ProductServices : IProducts
     {
         private readonly HttpClient _httpClient;
-        private readonly string _url = "http://localhost:3000/Data";
+        private readonly string _url = "http://localhost:3000/Products";
 
         public ProductServices()
         {
