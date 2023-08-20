@@ -1,4 +1,10 @@
-﻿
-using Ecommerce_CRUD.Controllers.Ecommerce_CRUD.Controller;
+﻿using Ecommerce_CRUD.Controllers;
 
-await ProductsController.Init();
+    var productsController = new ProductsController();
+   await productsController.StartMenu();
+        
+    
+
+
+
+

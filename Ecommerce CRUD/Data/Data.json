@@ -1,12 +1,32 @@
 {
   "Products": [
     {
-      "ProductId": 0,
-      "Name": "SAMSUNGA12",
-      "Description": "black",
-      "Price": 30000,
+      "id": 2,
+      "Name": "SAMSUNG Monitor ",
+      "Description": "Frameless",
+      "Price": 75000,
+      "Category": 0
+    },
+    {
+      "Name": "SAMSUNG Monitor",
+      "Description": "43 Inch Frameless",
+      "Price": 80000,
       "Category": 0,
-      "id": 1
+      "id": 3
+    },
+    {
+      "id": 4,
+      "Name": "Mouse",
+      "Description": "Gaming",
+      "Price": 1000,
+      "Category": 0
+    },
+    {
+      "id": 5,
+      "Name": "HP Probook",
+      "Description": "Silver",
+      "Price": 36000,
+      "Category": 0
     }
   ]
 }

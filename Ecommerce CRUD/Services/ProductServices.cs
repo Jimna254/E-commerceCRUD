@@ -37,7 +37,7 @@ namespace Ecommerce_CRUD.Services
             var content = JsonConvert.SerializeObject(product);
             var bodyContent = new StringContent(content, Encoding.UTF8, "application/json");
 
-            var response = await _httpClient.PutAsync(_url + "/" + product.ProductId, bodyContent);
+            var response = await _httpClient.PutAsync(_url + "/" + product.id, bodyContent);
 
             if (response.IsSuccessStatusCode)
             {
